@@ -1,1 +1,1 @@
-# unity-cookbook-2018-ch09-09-rotate-torso-to-aim
+# unity-cookbook-2018-ch10-09-rotate-torso-to-aim
